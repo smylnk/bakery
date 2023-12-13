@@ -124,7 +124,7 @@ color: var(--color-brand-dark);
 /* hero-section hero-title(main title) */
 .hero-section {
     padding: 272px 0;
-    background-image: url("./images/couple-in-bakery.jpg");
+    background-image: url('../images/couple-in-bakery.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
